@@ -1,12 +1,10 @@
 Frontend Mentor - Social Links Profile solution
 A responsive profile card that displays a user's information along with social media links. Built using HTML and CSS.
 This is a solution to the Social Links Profile Frontend Mentor. These challenges help you improve your coding skills by building realistic projects. 
-📸 Preview
-Mobile View
- 
-Desktop View
+
   
 🔗 Live Demo View Live Site 
+https://rushika1503.github.io/socialLinksProfile-FM/
 🚀 Built With
 •	HTML5
 •	CSS3 (Responsive Design)
@@ -17,7 +15,7 @@ The layout follows the design specifications given:
 •	Desktop: 1440px
 •	Ensures full responsiveness and accessibility (WCAG compliant)
 📥 Installation
-1.	Clone the repository:
+1.	Clone the repository: https://github.com/rushika1503/socialLinksProfile-FM
 	Git Clone Open the index.html file in your browser.
 📂 Folder Structure
 📂 social-links-profile-card
